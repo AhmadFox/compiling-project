@@ -1,0 +1,28 @@
+{
+  "name": "compiling-project",
+  "version": "1.0.0",
+  "description": "project that have the basics Front-End development skills that contain node_modul, compiling_assets, sass project, requair_js and node_packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadFox/compiling-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadFox/compiling-project/issues"
+  },
+  "homepage": "https://github.com/AhmadFox/compiling-project#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "install": "^0.10.1",
+    "laravel-blade-compiler": "^1.0.10",
+    "npm": "^5.5.1"
+  },
+  "devDependencies": {
+    "grunt-sass": "^2.0.0"
+  }
+}
